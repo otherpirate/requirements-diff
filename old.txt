@@ -1,0 +1,3 @@
+unittest==9.8
+Django==1.9
+internal-package==0.5
